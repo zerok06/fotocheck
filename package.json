@@ -1,0 +1,20 @@
+{
+  "name": "fotocheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "render": "node app.js --trace-warnings",
+    "qr": "node qr.js --trace-warnings"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pdf-lib/fontkit": "1.1.1",
+    "pdf-lib": "1.17.1",
+    "qr-image": "^3.2.0"
+  }
+}
