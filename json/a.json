@@ -1,28 +1,7 @@
 [
     {
         "id": "6523bd9728d60ceaa6572683",
-        "nombres": "JOSE ENRIQUE",
-        "apellido_paterno": "PAYE",
-        "apellido_materno": "MAMANI",
-        "verify": true,
-        "dni": "73736059",
-        "email": "jose.geeksjose@gmail.com",
-        "tel": "910852459",
-        "departament": "Moquegua",
-        "study_center": "Unam",
-        "createAt": "2023-10-09T08:45:10.729Z"
-    },
-    {
-        "id": "6523e13bfee0a23a83071c05",
-        "nombres": "HONORIO",
-        "apellido_paterno": "APAZA",
-        "apellido_materno": "ALANOCA",
-        "verify": true,
-        "dni": "70490843",
-        "email": "honorio.apz@gmail.com",
-        "tel": "999406058",
-        "departament": "Arequipa",
-        "study_center": "UNSA",
-        "createAt": "2023-10-09T11:17:15.200Z"
+        "firstName": "JOSE ENRIQUE",
+        "lastName": "PAYE Mamani"
     }
 ]
