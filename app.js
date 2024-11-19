@@ -5,7 +5,7 @@ import fontkit from '@pdf-lib/fontkit'
 import { readFileSync, writeFileSync } from 'fs'
 
 data.forEach(async ({ id, nombres, apellido_materno, apellido_paterno }) => {
-  const existingPdfBytes = readFileSync(`./pdf/pdf.pdf`)
+  const existingPdfBytes = readFileSync(`./pdf/certificado.pdf`)
   const pdfDoc = await PDFDocument.load(existingPdfBytes)
   pdfDoc.registerFontkit(fontkit)
   const fontBytes = readFileSync('./font/opensans.ttf')
@@ -14,8 +14,6 @@ data.forEach(async ({ id, nombres, apellido_materno, apellido_paterno }) => {
   const pages = pdfDoc.getPages()
   const firstPage = pages[0]
   const { width, height } = firstPage.getSize()
-  const existingPng = readFileSync(`./out/img/${id}.png`)
-  const pngImage = await pdfDoc.embedPng(existingPng)
   const nombre = nombres
     .split(' ')
     .map(
@@ -43,12 +41,6 @@ data.forEach(async ({ id, nombres, apellido_materno, apellido_paterno }) => {
     font: customFont,
     color: rgb(0, 0, 0),
     rotate: degrees(0),
-  })
-  firstPage.drawImage(pngImage, {
-    x: width / 2 - 180,
-    y: height / 2 - 200,
-    width: 600,
-    height: 600,
   })
   const pdfBytes = await pdfDoc.save()
   writeFileSync(`./out/${id}.pdf`, pdfBytes, err => {
