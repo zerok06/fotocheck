@@ -1,8 +1,226 @@
 [
     {
-        "id": "1",
-        "Apellidos": "Nina Chunga",
-        "Nombres": "Marcelo Lerhoy",
-        "Email": "marcelolerhoy@gmail.com"
+        "Apellidos": "Rosales Roca",
+        "Nombres": "Jesus Ronald"
+    },
+    {
+        "Apellidos": "Gutierrez Pachas",
+        "Nombres": "Daniel Alexis"
+    },
+    {
+        "Apellidos": "Salas Cruz",
+        "Nombres": "Bricel Celina Abigail"
+    },
+    {
+        "Apellidos": "Chambilla Condori",
+        "Nombres": "Micaela Maribel"
+    },
+    {
+        "Apellidos": "Aguilar Rojas",
+        "Nombres": "Adrian"
+    },
+    {
+        "Apellidos": "Alcos Mamani",
+        "Nombres": "Ghian Carlos"
+    },
+    {
+        "Apellidos": "Casafranca Velasque",
+        "Nombres": "Luz Maria"
+    },
+    {
+        "Apellidos": "Cardenas Ilizarbe",
+        "Nombres": "Adriel Marcelo"
+    },
+    {
+        "Apellidos": "Choque Solano",
+        "Nombres": "Kevin Luis"
+    },
+    {
+        "Apellidos": "Huachuhuillca Laurente",
+        "Nombres": "Miguel Angel"
+    },
+    {
+        "Apellidos": "Berrocal Salazar",
+        "Nombres": "Cristhian Rodrigo"
+    },
+    {
+        "Apellidos": "Cabezas Loayza",
+        "Nombres": "Anaih Silvia"
+    },
+    {
+        "Apellidos": "Marcas Palomino",
+        "Nombres": "Edgar"
+    },
+    {
+        "Apellidos": "Rodrigo Quispe",
+        "Nombres": "John Emerson"
+    },
+    {
+        "Apellidos": "Urquizo Aliaga",
+        "Nombres": "Roger"
+    },
+    {
+        "Apellidos": "Cordova Quispe",
+        "Nombres": "Jhon Alex"
+    },
+    {
+        "Apellidos": "Diaz Quispe",
+        "Nombres": "Yeferson"
+    },
+    {
+        "Apellidos": "Galindo Cardenas",
+        "Nombres": "Jose Luis"
+    },
+    {
+        "Apellidos": "Gomez Alarcon",
+        "Nombres": "Samir Jhoner"
+    },
+    {
+        "Apellidos": "Pocco Duarte",
+        "Nombres": "Anyelo Mijael"
+    },
+    {
+        "Apellidos": "Vargas Ccahuin",
+        "Nombres": "Wily Smit"
+    },
+    {
+        "Apellidos": "Flores Torres",
+        "Nombres": "Flor De Maria"
+    },
+    {
+        "Apellidos": "Del Castillo Taipe",
+        "Nombres": "Sara Belen"
+    },
+    {
+        "Apellidos": "Rosas Acho",
+        "Nombres": "Breno Estefano"
+    },
+    {
+        "Apellidos": "Mamani Gutierrez",
+        "Nombres": "Estefany Paola"
+    },
+    {
+        "Apellidos": "Ticona Apaza",
+        "Nombres": "Leydi Rosalit"
+    },
+    {
+        "Apellidos": "Cabezas Loayza",
+        "Nombres": "Wilmer Antony"
+    },
+    {
+        "Apellidos": "Carrion Arevalo",
+        "Nombres": "Rhoyer Danny"
+    },
+    {
+        "Apellidos": "Taipe Quirita",
+        "Nombres": "Miguel Angel"
+    },
+    {
+        "Apellidos": "Rodas Zuñiga",
+        "Nombres": "Antony Edgar"
+    },
+    {
+        "Apellidos": "Aquilar Cuenca",
+        "Nombres": "Rony Samir"
+    },
+    {
+        "Apellidos": "Altamirano Solano",
+        "Nombres": "Isabel Yaquelin"
+    },
+    {
+        "Apellidos": "Quispe Urbina",
+        "Nombres": "Gino Adrian"
+    },
+    {
+        "Apellidos": "Llasacce Arohuillca",
+        "Nombres": "Ruben Dario"
+    },
+    {
+        "Apellidos": "Huaraca Ccorahua",
+        "Nombres": "Jerry Martin"
+    },
+    {
+        "Apellidos": "Oscco Aroni",
+        "Nombres": "Jhon Anderson"
+    },
+    {
+        "Apellidos": "Quispe Ponceca",
+        "Nombres": "Juan Luis"
+    },
+    {
+        "Apellidos": "Carrion Ccorimanya",
+        "Nombres": "Angelo Jesus"
+    },
+    {
+        "Apellidos": "Cardenas Villano",
+        "Nombres": "Yosep Roger"
+    },
+    {
+        "Apellidos": "Huaranccoa Venegas",
+        "Nombres": "Miguel Angel"
+    },
+    {
+        "Apellidos": "Flores Torres",
+        "Nombres": "Flor De Maria"
+    },
+    {
+        "Apellidos": "Puma Valdivia",
+        "Nombres": "Eduardo Pablo"
+    },
+    {
+        "Apellidos": "Yuna",
+        "Nombres": "Sandro"
+    },
+    {
+        "Apellidos": "Hilasaca Pajsi",
+        "Nombres": "Eliana"
+    },
+    {
+        "Apellidos": "Minaya Gutierrez",
+        "Nombres": "Daniel"
+    },
+    {
+        "Apellidos": "Farfan Inca Roca",
+        "Nombres": "Jesus"
+    },
+    {
+        "Apellidos": "Condor Tinoco",
+        "Nombres": "Enrique Edgardo"
+    },
+    {
+        "Apellidos": "Ccorisoncco Venegas",
+        "Nombres": "Raul"
+    },
+    {
+        "Apellidos": "Aguilar Cuenca",
+        "Nombres": "Rony Samir"
+    },
+    {
+        "Apellidos": "Carrion Motta",
+        "Nombres": "Josep Gino"
+    },
+    {
+        "Apellidos": "Quintana Uribe",
+        "Nombres": "Jorge Ernesto"
+    },
+    {
+        "Apellidos": "Rupa Abollaneda",
+        "Nombres": "Jackelyn Janeth"
+    },
+    {
+        "Apellidos": "Huarancca Venegas",
+        "Nombres": "Muiguel Angel"
+    },
+    {
+        "Apellidos": "Yana Mullisaca",
+        "Nombres": "Sandra Nayely"
+    },
+    {
+        "Apellidos": "Mamani Gomez",
+        "Nombres": "Geraldine Soledad"
+    },
+    {
+        "Apellidos": "Mamani Chacon",
+        "Nombres": "Raquel Maricela"
     }
 ]

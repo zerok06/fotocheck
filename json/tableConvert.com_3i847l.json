@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "nombres": "Edward Hinojosa Cardenas",
+        "titulo": "Explainable Sentiment Analysis on Restaurant Reviews using an Evolutionary Algorithm"
+    },
+    {
+        "id": "2",
+        "nombres": "Wendi Huaman",
+        "titulo": "Making an Under-Resourced Language available on the Wikidata Knowledge Graph: Quechua Language"
+    },
+    {
+        "id": "3",
+        "nombres": "Guina Alzamora Sotomayor",
+        "titulo": "Predictive model applying sentiment analysis on Tweets to determine the behavior of the cryptocurrency Bitcoin"
+    },
+    {
+        "id": "4",
+        "nombres": "Kamalakkannan Ravi",
+        "titulo": "ThreatGram 101 - Extreme Telegram Replies Data with Threat Levels"
+    },
+    {
+        "id": "5",
+        "nombres": "Mariela Melissa Nina Capujra",
+        "titulo": "Comparison of Recurrent Neural Network Architectures to Answer Questions of the Universities Admission Process"
+    },
+    {
+        "id": "6",
+        "nombres": "Giulia Naval",
+        "titulo": "Leveraging LLMs for Enhanced Personality Trait Classification"
+    },
+    {
+        "id": "7",
+        "nombres": "Carlos A. Ayala-Tipan",
+        "titulo": "Enhancing Academic Profiling with Advanced NLP Techniques: SBERT + KeyBERT"
+    },
+    {
+        "id": "8",
+        "nombres": "Prakash Chourasia",
+        "titulo": "EPIC: Enhancing Privacy through Iterative Collaboration"
+    },
+    {
+        "id": "9",
+        "nombres": "Angel Javier Quispe-Carita",
+        "titulo": "Detection of Polarizing Narratives in Social Media through Machine Learning during Political Unres"
+    },
+    {
+        "id": "10",
+        "nombres": "Prakash Chourasia",
+        "titulo": "DWFL: Enhancing Federated Learning through Dynamic Weighted Averaging"
+    },
+    {
+        "id": "11",
+        "nombres": "Julio A. Vera",
+        "titulo": "Enhancing Bert Classification by Increasing Training Corpus Using Paraphrasing"
+    },
+    {
+        "id": "12",
+        "nombres": "Sergio Andres Flores Ñahuis",
+        "titulo": "A Deep Learning Model for Ingredient and Meal Quantity Estimation in Type 2 Diabetes Care"
+    },
+    {
+        "id": "13",
+        "nombres": "Sergio L. Ramos",
+        "titulo": "Hybrid Quantum Model for Brain Tumor Classification"
+    },
+    {
+        "id": "14",
+        "nombres": "Yhon Fuentes Huaman",
+        "titulo": "Prediction of maximum rainfall for Early warning of heavy rainfall with Multivariable Long-term memory networks and Temporal Transformers"
+    },
+    {
+        "id": "15",
+        "nombres": "Murray D Patterson",
+        "titulo": "Preserving Hidden Hierarchical Structure: Poincaré Distance for Enhanced Genomic Sequence Analysis"
+    },
+    {
+        "id": "16",
+        "nombres": "Edison G Paria Fernandez",
+        "titulo": "An Scoping Review: Explainable Deep Learning Approach for Automated Sismo-Volcanic Event Classification"
+    },
+    {
+        "id": "17",
+        "nombres": "Diego Alonso Dorado Torres",
+        "titulo": "An efficient automatic classification hibryd model to identify images of commercial starchy corn"
+    },
+    {
+        "id": "18",
+        "nombres": "Yhon Fuentes Huaman",
+        "titulo": "Predicting Shear Strength at the Joint of a Beam and a Column Using Supervised Learning and Multivariate Neural Networks"
+    },
+    {
+        "id": "19",
+        "nombres": "Tito Peng Wu Pan",
+        "titulo": "Transformer GPT-2 Model for Code Prediction in Machine Learning Projects"
+    },
+    {
+        "id": "20",
+        "nombres": "Gustavo Jorge Choque Dextre",
+        "titulo": "Spanish Historical Handwritten Text Recognition with Deep Learning"
+    },
+    {
+        "id": "21",
+        "nombres": "Saulo Gustavo Machicao-Mollocondo",
+        "titulo": "Parallel Multi-objective Evolutionary Algorithms: A Systematic Literature Review"
+    },
+    {
+        "id": "22",
+        "nombres": "Erick A. Quispe Bernardo",
+        "titulo": "Safycash: Mobile Application for Authentic Banknote Detection Using Image Processing Libraries and Convolutional Neural Networks"
+    },
+    {
+        "id": "23",
+        "nombres": "Ricardo Manuel Lazo Vasquez",
+        "titulo": "Small Electra for Hate: A Transformer Lightweight Approach to Hate Text Classification"
+    },
+    {
+        "id": "24",
+        "nombres": "Tania Y. Anahua",
+        "titulo": "Strategies to Mitigate University Dropout Using Classification Algorithms in Engineering Programs"
+    },
+    {
+        "id": "25",
+        "nombres": "Miguel Nunez-del-Prado",
+        "titulo": "Electricity Demand Time Series Benchmark"
+    },
+    {
+        "id": "26",
+        "nombres": "Almir Vargas Mamani",
+        "titulo": "Application of Multilayer Perceptron: Analysis of socioeconomic factors of poverty in Peru"
+    },
+    {
+        "id": "27",
+        "nombres": "Guillaume Alviset, Christelle Pierkot",
+        "titulo": "Enhancing FAIRness of Spatiotemporal Data through Semantics: A Case Study with EarthPortal and EaSy Data"
+    },
+    {
+        "id": "28",
+        "nombres": "Usman Khan",
+        "titulo": "A Comparison of Classification Algorithms for Disaster Tweets"
+    },
+    {
+        "id": "29",
+        "nombres": "Oscar Flores-Palermo",
+        "titulo": "Development of 1D-CNN Methods for Classifying Pediatric Epilepsy through EEG Signals"
+    },
+    {
+        "id": "30",
+        "nombres": "Oscar Jimenez Flores",
+        "titulo": "Methodological Approach for the Development of a Mountain Glacier Dataset Using Satellite Imagery for Deep Learning Application"
+    }
+]

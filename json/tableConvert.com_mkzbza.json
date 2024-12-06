@@ -823,8 +823,8 @@
     },
     {
         "id": "138",
-        "Apellidos": "Nina Capujra Mariela Melissa",
-        "Nombres": "",
+        "Apellidos": "Nina Capujra",
+        "Nombres": "Mariela Melissa",
         "Email": "2020204032@unam.edu.pe"
     },
     {
@@ -936,12 +936,6 @@
         "Email": "giulia.naval@ucsp.edu.pe"
     },
     {
-        "id": "157",
-        "Apellidos": "Naval Fernández",
-        "Nombres": "Giulia Alexa",
-        "Email": "giulia.naval@ucsp.edu.pe"
-    },
-    {
         "id": "158",
         "Apellidos": "Dorado Torres",
         "Nombres": "Diego Alonso",
@@ -966,24 +960,6 @@
         "Email": "oscarjimenezflores@outlook.com"
     },
     {
-        "id": "162",
-        "Apellidos": "Viza Escobar",
-        "Nombres": "Rafael Antonio",
-        "Email": "vizarafael@gmail.com"
-    },
-    {
-        "id": "163",
-        "Apellidos": "Romero Cadillo",
-        "Nombres": "Marcelo Elisson",
-        "Email": "marcelo6096631@gmail.com"
-    },
-    {
-        "id": "164",
-        "Apellidos": "Nina Chunga",
-        "Nombres": "Marcelo Lerhoy",
-        "Email": "marcelolerhoy@gmail.com"
-    },
-    {
         "id": "165",
         "Apellidos": "YANA TAPIA",
         "Nombres": "YAQUELYN ESTEFANY",
@@ -1002,12 +978,6 @@
         "Email": "bricel.salas@gmail.com"
     },
     {
-        "id": "168",
-        "Apellidos": "Carbajal Mamani",
-        "Nombres": "Brayan Meliton",
-        "Email": "2022207019.est@unaj.edu.pe"
-    },
-    {
         "id": "169",
         "Apellidos": "Rosales Roca",
         "Nombres": "Jesús Ronald",
@@ -1018,78 +988,6 @@
         "Apellidos": "FLORES HERENCIA",
         "Nombres": "KAREN STEFANIE",
         "Email": "STEFANIE.FH2@GMAIL.COM"
-    },
-    {
-        "id": "171",
-        "Apellidos": "Curro Apaza",
-        "Nombres": "Raiza Alexandra",
-        "Email": "alexandra.iza5000@gmail.com"
-    },
-    {
-        "id": "172",
-        "Apellidos": "Camasita Gomez",
-        "Nombres": "Luis Fabrizio",
-        "Email": "luiscg27042004@gmail.com"
-    },
-    {
-        "id": "173",
-        "Apellidos": "Quispe Mamani",
-        "Nombres": "Andreas Jhoan",
-        "Email": "deitick19@gmail.com"
-    },
-    {
-        "id": "174",
-        "Apellidos": "Centeno Ccorimanya",
-        "Nombres": "Jhon Alex",
-        "Email": "alexpiper616@gmail.com"
-    },
-    {
-        "id": "175",
-        "Apellidos": "Apaza Mamani",
-        "Nombres": "Eddy Ivan",
-        "Email": "eyampooll@gmail.com"
-    },
-    {
-        "id": "176",
-        "Apellidos": "Leiva Flores",
-        "Nombres": "Miguel Adolfo",
-        "Email": "maleiva@est.unap.edu.pe"
-    },
-    {
-        "id": "177",
-        "Apellidos": "Ramirez Vidal",
-        "Nombres": "Brayam Victor",
-        "Email": "bramirez@est.unap.edu.pe"
-    },
-    {
-        "id": "178",
-        "Apellidos": "Cutipa Mamani",
-        "Nombres": "Jhon Carlos",
-        "Email": "jcutipa@est.unap.edu.pe"
-    },
-    {
-        "id": "179",
-        "Apellidos": "Torres Canqui",
-        "Nombres": "Waldir Kevin",
-        "Email": "kevin_17tc@hotmail.com"
-    },
-    {
-        "id": "180",
-        "Apellidos": "Chui Flores",
-        "Nombres": "Angel Shande",
-        "Email": "anyelofloo456287@gmail.com"
-    },
-    {
-        "id": "181",
-        "Apellidos": "Galvez Garay",
-        "Nombres": "Marcelo Antony",
-        "Email": "mangaga2005@gmail.com"
-    },
-    {
-        "id": "182",
-        "Apellidos": "Camizan Alvarado",
-        "Nombres": "Abel Eliab",
-        "Email": "abelcamizanx@gmail.com"
     },
     {
         "id": "183",
@@ -1132,5 +1030,41 @@
         "Apellidos": "Bohorquez Garcia",
         "Nombres": "Vilma Miguelina",
         "Email": "honorio.apz@gmail.com"
+    },
+    {
+        "id": "190",
+        "Apellidos": "Huaman Quispe",
+        "Nombres": "Wendi",
+        "Email": "wendi.huamanquispe@gmail.com"
+    },
+    {
+        "id": "191",
+        "Apellidos": "UGARTE ROJAS",
+        "Nombres": "WILLY GUSTAVO",
+        "Email": "willy.ugarte@upc.pe"
+    },
+    {
+        "id": "192",
+        "Apellidos": "Lazo Vasquez",
+        "Nombres": "Ricardo Manuel",
+        "Email": "ricardo.lazo@ucsp.edu.pe"
+    },
+    {
+        "id": "193",
+        "Apellidos": "Khan",
+        "Nombres": "Usman",
+        "Email": "usmankhanakbar@gmail.com"
+    },
+    {
+        "id": "195",
+        "Apellidos": "HUANCO RAMOS",
+        "Nombres": "FIDEL",
+        "Email": "fhuanco@unap.edu.pe"
+    },
+    {
+        "id": "196",
+        "Apellidos": "LOPEZ MAMANI",
+        "Nombres": "LEIDY MADU",
+        "Email": "leydilopez7539@gmail.com"
     }
 ]
